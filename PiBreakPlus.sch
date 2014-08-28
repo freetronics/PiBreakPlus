@@ -30,7 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:freetronics_kicad_sch_lib
-LIBS:PiBreak-cache
+LIBS:PiBreakPlus-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
