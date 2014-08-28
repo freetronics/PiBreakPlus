@@ -36,11 +36,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "14 apr 2014"
-Rev ""
-Comp ""
-Comment1 ""
+Title "PiBreak Plus"
+Date "28 Aug 2014"
+Rev "v1.0"
+Comp "TAPR Open Hardware License"
+Comment1 "(C) 2014 Freetronics Pty Ltd"
 Comment2 ""
 Comment3 ""
 Comment4 ""
